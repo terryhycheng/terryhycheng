@@ -1,97 +1,24 @@
-## Terry Cheng
+<h1 align="center">Hi 👋, I'm Terry Cheng</h1>
+<h3 align="center">A passionate Full-stack Junior Web Developer specialising in the front-end.</h3>
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Blog](https://terryhycheng.hashnode.dev/)
+- 🌱 I’m currently learning **Ruby, Rails, ReactJS**
 
-A passionate **Full-stack Junior Web Developer** specialising in the front-end.
+- 📝 I regularly write articles on [https://terryhycheng.hashnode.dev/](https://terryhycheng.hashnode.dev/)
 
-After working as a graphic designer in marketing agencies for 5 years, I spent 2 years at The University of Hong Kong as an IT officer, building websites and systems with well-designed UI. I enjoyed turning my designs into actual useable applications, so I decided to enhance my coding skills and even change my career to be a developer.
+- 💬 Ask me about **Ruby, Javascript, UI Design**
 
-Having recently completed the intensive 16-week bootcamp at [Makers Academy](https://makers.tech/), I have grown from an interested amateur coder into a competent and confident junior developer.
+- 📫 How to reach me **terryhycheng@gmail.com**
 
-I am currently looking for a role where I can combine creativity with a super high level of technical knowledge and expand my knowledge in Full-Stack and Front-End development and design.
+- 📄 Know about my experiences [https://www.linkedin.com/in/terryhycheng/](https://www.linkedin.com/in/terryhycheng/)
 
-**Tech Skills** : HTML, CSS, JavaScript, ReactJS, TailwindCSS, Express, Node.js, NextJS, Ruby, Rails
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/terryhycheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terryhycheng" height="30" width="40" /></a>
+<a href="https://hashnode.com/@terryhycheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@terryhycheng" height="30" width="40" /></a>
+</p>
 
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-For a complete list, see my [GitHub](https://github.com/terryhycheng?tab=repositories).
-
-| Project                                                                    | Description                                                                                                        | Technologies                                      |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| [Agenda Website](https://github.com/terryhycheng/agenda)                   | A website built for a marketing agency by using NextJS, connecting with headless CMS - Sanity.                     | NextJS, TailwindCSS, DaisyUI, Sanity              |
-| [Personal Travel App](https://github.com/terryhycheng/personal-travel-app) | An app to visualise your trips in a single webpage with weather and geo information you would need during planning | Node.js, Javascript, HTML, SASS, Express          |
-| [Personal To-do List](https://github.com/terryhycheng/angular-aws-tdl)     | An app with authentication functionality. Users can register their own accounts to manage to-dos.                  | Angular, AWS S3, AWS Lambda, ExpressJS, Circle CI |
-
-## Skills
-
-#### Passionate in design
-
-Organising elements to create beautiful layouts has always been my passion. After graduating, I worked in the design industry for over 6 years. During this time, I gained experience and additional skills that took me from a passionate graduate to a professional designer. I believe all these experiences and skill sets would be a booster while working in front-end development.
-
-#### Keen to details
-
-From designing a poster while working in marketing agencies, to developing a programming while studying in Makers. Detail always plays a key role towards perfection. I believe every detail can make a difference so being detail-oriented is so important for me either as a designer or developer.
-
-#### Well balance between aesthetics and logic
-
-#### Thrives under pressure
-
-When I was working in marketing agencies, having a tight production timeline with multiple projects on hand at the same time are a normal practice. The team leaders from my previous jobs were impressed by my high efficiency and also the quality of my, even though working under high pressure.
-
-#### Fast and motivated learner
-
-####
-
-During my time at Agenda, I presented to clients about our design concepts, with well-deisgned presentation decks and marketing data provided by other teams. I have continued to develop my written communication skills by [blogging](https://terryhycheng.hashnode.dev/) about my journey of learning to code and I use it to develop a stronger online presence.
-
-#### Additional skills
-
-- Methodologies : Agile, XP, Test Driven Development
-- Foreign languages : Fluent Cantonese, Madarian and basic Japanese
-
-## Experience
-
-**The University of Hong Kong** (Sep '20 - Aug '22)  
-_IT Officer - Multimedia Development Officer_
-
-Ensured smooth management and completion of complicated tasks, such as congregation, information day, and academic talks through collaboration with other developers and designers.Supported faculty events through the preparation of both online & offline materials, including graphics, motion graphics, brochure design, banner design, and poster design.
-
-**Agenda Consulting Asia** (Nov '17 - Aug '20)  
-_Digital Designer_
-
-Designed visuals for promotion by collaborating with marketing teams and following their digital marketing strategies for digital media or social media. Utilised several skills, whilst designing a company's official website from scratch with WordPress.
-
-**Guru Online - AdBeyond (Group) Limited** (Oct '16 - Apr '17)  
-_Graphic Designer_
-
-Held responsibility to manage daily graphic design requests from the marketing team. Created, managed, and produced digital design solutions for a variety of users.
-
-**RoadShow Holdings Limited** (Sep '15 - Sep '16)  
-_Motion Graphic Editor_
-
-Designed logos and identity graphics for brand-new TV programmes. Produced videos and motion graphics for TV programmes and social media promotion.
-
-## Education
-
-#### Makers Academy (Dec '22 - Apr '23)
-
-A 16-week intensive development bootcamp, focusing on :
-
-- Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
-
-#### Hong Kong Baptist University (Sep '12 - Jun '15)
-
-- BSSc Communication - Digital Graphic Communication
-- 2:1
-- Modules in Graphic Design, 3D Animation, Design Management
-- Head of Digiforce - student committee 2013
-
-## Hobbies
-
-- **Gaming** : I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
-- **Drawing** : To stretch out after a day at the computer.
-- **Swimming** : I make an excellent lemon drizzle!
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/terryhycheng"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="terryhycheng" /></a></p><br><br>
