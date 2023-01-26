@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Terry Cheng</h1>
-<h3 align="center">A passionate Full-stack Junior Web Developer specialising in the front-end.</h3>
+<h3 align="center">A passionate Full-stack Junior Developer specialising in the front-end.</h3>
 
-- 🌱 I’m currently learning **Ruby, Rails, ReactJS**
+- 🌱 I’m currently learning **Ruby, Javascript, ReactJS**
 
 - 📝 I regularly write articles on [https://terryhycheng.hashnode.dev/](https://terryhycheng.hashnode.dev/)
 
