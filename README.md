@@ -12,8 +12,8 @@
 - 📄 Know about my experiences  [![linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terryhycheng/) [![github](https://img.shields.io/badge/githubcv-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terryhycheng/CV)
 
 <a href="https://github.com/terryhycheng">
-  <img height="170em" src="https://github-readme-stats-two-self.vercel.app/api?username=terryhycheng&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-two-self.vercel.app/api/top-langs/?username=terryhycheng&layout=compact&langs_count=7"/> 
+  <img height="170em" src="https://github-readme-stats-git-main-terryhycheng.vercel.app/api?username=terryhycheng&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-git-main-terryhycheng.vercel.app/api/top-langs/?username=terryhycheng&layout=compact&langs_count=7"/> 
   <br>
 </a>
 
