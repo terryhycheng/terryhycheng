@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terry Cheng</h1>
-<h3 align="center">A passionate Junior Full Stack Developer and Freelancer</h3>
+<h3 align="center">A passionate Junior Web Developer</h3>
 
 - 🧑🏻‍💻 My portfolio website: <a target="_blank" href="https://www.terryhycheng.com/">https://www.terryhycheng.com/</a>
 
